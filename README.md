@@ -1,13 +1,5 @@
-<div align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Account Stats" width="60%" src="https://github-readme-stats.vercel.app/api?username=duken72&count_private=true&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=1f6feb&hide_title=true&hide_border=true&disable_animations=true&cache_seconds=86400">
- </a>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Top Languages" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duken72&layout=compact&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9&icon_color=1f6feb&hide_border=true&langs_count=6&hide=C&cache_seconds=86400">
- </a>
- <br>
- <a href="https://github.com/anuraghazra/github-readme-stats">Repo for the stats</a>
-</div>
+![duken72's GitHub stats](https://github-readme-stats.vercel.app/api?username=duken72&hide=stars,contribs)
+![Top Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duken72&layout=compact)
 
 <div align="center">
  <div>
