@@ -1,5 +1,7 @@
-![duken72's GitHub stats](https://github-readme-stats.vercel.app/api?username=duken72&hide=stars,contribs&theme=dracula)
-![Top Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duken72&layout=compact&theme=dracula)
+<!-- ![duken72's GitHub stats](https://github-readme-stats.vercel.app/api?username=duken72&hide=stars,contribs&theme=dracula) -->
+<!-- ![Top Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duken72&layout=compact&theme=dracula) -->
+
+Just a worthless piece of meat!
 
 - Coding languages I use:
   ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -16,4 +18,4 @@
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
-![Profile view](https://komarev.com/ghpvc/?username=duken72&style=for-the-badge&color=blueviolet)
+<!-- ![Profile view](https://komarev.com/ghpvc/?username=duken72&style=for-the-badge&color=blueviolet) -->
