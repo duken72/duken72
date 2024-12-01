@@ -16,4 +16,4 @@
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
-![Profile view](https://komarev.com/ghpvc/?username=duken72&style=for-the-badge&color=blueviolet")
+![Profile view](https://komarev.com/ghpvc/?username=duken72&style=for-the-badge&color=blueviolet)
