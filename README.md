@@ -1,4 +1,4 @@
-![duken72's GitHub stats](https://github-readme-stats.vercel.app/api?username=duken72&hide=stars,contribs&theme=synthwave)
+![duken72's GitHub stats](https://github-readme-stats.vercel.app/api?username=duken72&hide=stars,contribs&theme=dracula)
 ![Top Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duken72&layout=compact&hide_progress=true)
 
 <div align="center">
